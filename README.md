@@ -35,7 +35,7 @@ Also it draws curved lines as straight.
 The first improvement would be to let user specify the input file without editing the script, ex: 
 	
 	1. Accept command line arguments
-	2. Scan the current directory and let the user choose a file to process
+	2. Scan the directory with videos and let the user choose a file to process
 	3. Add option to open a camera as input device
 
 Also the input frame brightness/contrast can be normalized to make Canny edge detection work reliable across different lighting conditions.
